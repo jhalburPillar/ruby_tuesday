@@ -124,7 +124,7 @@ class AboutMethods < Neo::Koan
   end
 
   # ------------------------------------------------------------------
-
+ 
   class Dog
     def name
       "Fido"
